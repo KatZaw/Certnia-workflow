@@ -12,9 +12,9 @@ This document analyzes the current workflow process depicted in the swimlane flo
 ## Swimlanes and Participants
 The flowchart is organized into vertical swimlanes representing different roles:
 - LT (Leadership Team)
-- WPM (Work/Project Management)
+- WFM (Workforce Management)
 - Demand Owner
-- CBDRF
+- CIC RF
 - IBM WFM
 - Subcontractors
 - TA (Talent Acquisition)
@@ -24,7 +24,7 @@ The flowchart is organized into vertical swimlanes representing different roles:
 - **New**: Early stage in the process
 - **Internal Check**: Verification stage
 - **Proposal**: When offering to Demand Owner
-- **CBDRF/IBM WFM/Subcontractors**: All have three possible statuses:
+- **CICRF/IBM WFM/Subcontractors**: All have three possible statuses:
   - In progress
   - Accepted
   - Onboarded
@@ -39,8 +39,8 @@ The flowchart is organized into vertical swimlanes representing different roles:
 
 ### Cross-Swimlane Workflow
 1. Process begins with **Demand Plan** in the Demand Owner swimlane
-2. Moves to **Opportunity Evaluation** in the WPM swimlane for initial assessment
-3. Decision point in WPM: **Opportunity Qualified (>20%)**
+2. Moves to **Opportunity Evaluation** in the WFM swimlane for initial assessment
+3. Decision point in WFM: **Opportunity Qualified (>20%)**
    - If Yes: Proceeds to **Mandatory descriptive data quality check** in WPM
    - If No: Process returns or terminates
 4. **Quality Check** decision point in WPM swimlane
